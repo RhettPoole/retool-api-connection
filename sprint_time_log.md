@@ -26,12 +26,20 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|6.9.25    |9:30AM    |IM      |Create Project Plan, Collect Resources      |0:45HR       |
+|6.9.25    |9:30AM    |IM      |Create Project Plan, Collect Resources      |0:45HR-      |
 |6.9.25    |2:00PM    |MTG     |Attend Planning Meeting                     |1:00HR       |
-|6.11.25   |8:45      |TP      |Add logout functionality to Brokemeals      |2:00HR       |
+|6.11.25   |8:45AM    |TP      |Add logout functionality to Brokemeals      |2:00HR       |
+|6.13.25   |2:00AM    |MTG     |Attend Stand-up meeting                     |1:00HR       |
+|6.16.25   |2:00PM    |TP      |Attend Group Work Meeting                   |1:00HR       |
+|6.16.25   |3:30PM    |IM      |Read and learn about Ngrok                  |0:30HR-      |
+|6.17.25   |8:45PM    |IM      |Install and test ngrok                      |0:50HR-      |
+|6.18.25   |9:00AM    |IM      |Study Retool, learn how to implement API    |2:15HR-      |
+|6.18.25   |1:20PM    |IM      |Having an issue tying data components       |0:20HR       |
+                                     - together, studying components                     
+|6.18.25   |2:00PM    |MTG     |Attend Team Review Meeting                  |1:00HR         |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
-|          |          |        |                                            |             |
+
 
 
 ## Sprint Totals
