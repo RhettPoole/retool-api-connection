@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "type": "Refrigerator",
+    "brand": "Jayco",
+    "status": "Needs Repair",
+    "notes": "Checked on 2025. Next inspection due soon.",
+    "model": "Model-885",
+    "manual": "https://www.manualslib.com/manual/75411.html"
+  },
+  {
+    "id": 2,
+    "type": "Microwave",
+    "brand": "Suburban",
+    "status": "Working",
+    "notes": "Checked on 2024. Next inspection due soon.",
+    "model": "Model-987",
+    "manual": "https://www.manualslib.com/manual/85411.html"
+  },
+  {
+    "id": 3,
+    "type": "Air Conditioner",
+    "brand": "Thor",
+    "status": "Needs Repair",
+    "notes": "Checked on 2024. Next inspection due soon.",
+    "model": "Model-377",
+    "manual": "https://www.manualslib.com/manual/14713.html"
+  },
+  {
+    "id": 4,
+    "type": "Furnace",
+    "brand": "Jayco",
+    "status": "Replaced",
+    "notes": "Checked on 2023. Next inspection due soon.",
+    "model": "Model-340",
+    "manual": "https://www.manualslib.com/manual/94750.html"
+  },
+  {
+    "id": 5,
+    "type": "Water Heater",
+    "brand": "Carefree",
+    "status": "In Storage",
+    "notes": "Checked on 2025. Next inspection due soon.",
+    "model": "Model-598",
+    "manual": "https://www.manualslib.com/manual/13141.html"
+  },
+  {
+    "id": 6,
+    "type": "Oven",
+    "brand": "Keystone",
+    "status": "Needs Repair",
+    "notes": "Checked on 2023. Next inspection due soon.",
+    "model": "Model-947",
+    "manual": "https://www.manualslib.com/manual/68764.html"
+  },
+  {
+    "id": 7,
+    "type": "Toilet",
+    "brand": "Coleman",
+    "status": "Working",
+    "notes": "Checked on 2023. Next inspection due soon.",
+    "model": "Model-255",
+    "manual": "https://www.manualslib.com/manual/26299.html"
+  },
+  {
+    "id": 8,
+    "type": "Shower",
+    "brand": "Norcold",
+    "status": "Unknown",
+    "notes": "Checked on 2025. Next inspection due soon.",
+    "model": "Model-230",
+    "manual": "https://www.manualslib.com/manual/57968.html"
+  },
+  {
+    "id": 9,
+    "type": "Washer",
+    "brand": "Forest River",
+    "status": "Replaced",
+    "notes": "Checked on 2023. Next inspection due soon.",
+    "model": "Model-312",
+    "manual": "https://www.manualslib.com/manual/72248.html"
+  },
+  {
+    "id": 10,
+    "type": "Dryer",
+    "brand": "Furrion",
+    "status": "Needs Repair",
+    "notes": "Checked on 2025. Next inspection due soon.",
+    "model": "Model-610",
+    "manual": "https://www.manualslib.com/manual/76877.html"
+  },
+  {
+    "id": 11,
+    "type": "Television",
+    "brand": "Camco",
+    "status": "Working",
+    "notes": "Checked on 2024. Next inspection due soon.",
+    "model": "Model-526",
+    "manual": "https://www.manualslib.com/manual/92401.html"
+  },
+  {
+    "id": 12,
+    "type": "Antenna",
+    "brand": "Furrion",
+    "status": "Needs Repair",
+    "notes": "Checked on 2023. Next inspection due soon.",
+    "model": "Model-953",
+    "manual": "https://www.manualslib.com/manual/83875.html"
+  },
+  {
+    "id": 13,
+    "type": "Battery Charger",
+    "brand": "Carefree",
+    "status": "In Storage",
+    "notes": "Checked on 2024. Next inspection due soon.",
+    "model": "Model-303",
+    "manual": "https://www.manualslib.com/manual/30739.html"
+  },
+  {
+    "id": 14,
+    "type": "Power Inverter",
+    "brand": "Go Power",
+    "status": "Needs Repair",
+    "notes": "Checked on 2023. Next inspection due soon.",
+    "model": "Model-282",
+    "manual": "https://www.manualslib.com/manual/86508.html"
+  },
+  {
+    "id": 15,
+    "type": "Solar Panel",
+    "brand": "GE",
+    "status": "In Storage",
+    "notes": "Checked on 2023. Next inspection due soon.",
+    "model": "Model-651",
+    "manual": "https://www.manualslib.com/manual/66480.html"
+  },
+  {
+    "id": 16,
+    "type": "Leveling System",
+    "brand": "Xantrex",
+    "status": "Working",
+    "notes": "Checked on 2023. Next inspection due soon.",
+    "model": "Model-529",
+    "manual": "https://www.manualslib.com/manual/88491.html"
+  },
+  {
+    "id": 17,
+    "type": "Awning",
+    "brand": "GE",
+    "status": "Replaced",
+    "notes": "Checked on 2023. Next inspection due soon.",
+    "model": "Model-765",
+    "manual": "https://www.manualslib.com/manual/85174.html"
+  },
+  {
+    "id": 18,
+    "type": "Generator",
+    "brand": "Xantrex",
+    "status": "Replaced",
+    "notes": "Checked on 2023. Next inspection due soon.",
+    "model": "Model-284",
+    "manual": "https://www.manualslib.com/manual/20063.html"
+  },
+  {
+    "id": 19,
+    "type": "Stove",
+    "brand": "Jayco",
+    "status": "Unknown",
+    "notes": "Checked on 2025. Next inspection due soon.",
+    "model": "Model-345",
+    "manual": "https://www.manualslib.com/manual/37948.html"
+  },
+  {
+    "id": 20,
+    "type": "Thermostat",
+    "brand": "Xantrex",
+    "status": "In Storage",
+    "notes": "Checked on 2024. Next inspection due soon.",
+    "model": "Model-302",
+    "manual": "https://www.manualslib.com/manual/63778.html"
+  }
+]

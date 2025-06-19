@@ -4,12 +4,8 @@ const express = require('express');
 // Creates Express app instance.
 const app = express();
 const PORT = 3000;
+const appliances = require('./data/appliances.json');
 
-// Sample data to create and test endpoints
-const appliances = [
-    { id: 1, type: 'fridge', brand: 'Dometic', status: 'working', notes: 'No issues'},
-    { id: 2, type: 'furnace', brand: 'Suburban', status: 'needs maintenance', notes: 'Ignition problem' }
-];
 
 /* Every route handler function in express receives two args, req/res. Even if we don't use req, we have to include it because express calls our handler with both arguments. */
 // GET ALL ENDPOINT

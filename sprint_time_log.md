@@ -36,9 +36,11 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |6.18.25   |9:00AM    |IM      |Study Retool, learn how to implement API    |2:15HR-      |
 |6.18.25   |1:20PM    |IM      |Having an issue tying data components       |0:20HR       |
                                      - together, studying components                     
-|6.18.25   |2:00PM    |MTG     |Attend Team Review Meeting                  |1:00HR         |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|6.18.25   |2:00PM    |MTG     |Attend Team Review Meeting                  |1:00HR       |
+|6.18.25   |3:10PM    |IM      |Found new component to use for connecting data |0:57HR-      |
+|6.18.25   |6:00PM    |IM      |Configure AI model page                     |0:45HR-      |
+|6.18.25   |8:00PM    |IM      |Styled pages with new color scheme and logo |1:15HR-      |
+|6.18.25   |6:00PM    |IM      |                                            |             |
 
 
 

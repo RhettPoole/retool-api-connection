@@ -60,7 +60,9 @@ I found these websites useful in developing this software:
 * https://ngrok.com/docs/api/ 
 * https://ngrok.com/docs
 * https://docs.retool.com/apps/reference/components/ 
-* https://docs.retool.com/apps/guides/interaction-navigation/event-handlers 
+* https://docs.retool.com/apps/guides/interaction-navigation/event-handlers
+* https://www.youtube.com/watch?v=G7FwV9H6Mnk&list=PLqWdQFDVLADl6vk6LxlCqEYApSMMS_Vlp&index=26  
+* https://www.youtube.com/watch?v=1F6jarKVEx8
 * 
 
 ## Future Work
