@@ -37,10 +37,12 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |6.18.25   |1:20PM    |IM      |Having an issue tying data components       |0:20HR       |
                                      - together, studying components                     
 |6.18.25   |2:00PM    |MTG     |Attend Team Review Meeting                  |1:00HR       |
-|6.18.25   |3:10PM    |IM      |Found new component to use for connecting data |0:57HR-      |
+|6.18.25   |3:10PM    |IM      |Found new component to use for connecting data |0:57HR-   |
 |6.18.25   |6:00PM    |IM      |Configure AI model page                     |0:45HR-      |
 |6.18.25   |8:00PM    |IM      |Styled pages with new color scheme and logo |1:15HR-      |
-|6.18.25   |6:00PM    |IM      |                                            |             |
+|6.19.25   |7:30PM    |IM      |                                            |0:45HR-      |
+|6.20.25   |10:00AM   |IM      |Study Post Express Implementation           |0:20HR-      |
+|6.19.25   |10:45AM   |IM      |                                            |0:45HR-      |
 
 
 

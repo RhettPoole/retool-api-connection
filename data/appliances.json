@@ -178,5 +178,14 @@
     "notes": "Checked on 2024. Next inspection due soon.",
     "model": "Model-302",
     "manual": "https://www.manualslib.com/manual/63778.html"
+  },
+  {
+    "id": 1750439868016,
+    "type": "Dishwasher",
+    "brand": "Whirlpool",
+    "status": "Working",
+    "notes": "Installed 2025",
+    "model": "Model-123",
+    "manual": "https://www.manualslib.com/manual/12345.html"
   }
 ]
