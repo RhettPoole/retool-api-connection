@@ -42,7 +42,10 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |6.18.25   |8:00PM    |IM      |Styled pages with new color scheme and logo |1:15HR-      |
 |6.19.25   |7:30PM    |IM      |                                            |0:45HR-      |
 |6.20.25   |10:00AM   |IM      |Study Post Express Implementation           |0:20HR-      |
-|6.19.25   |10:45AM   |IM      |                                            |0:45HR-      |
+|6.20.25   |10:45AM   |IM      |Create Post Implementation in VSCode, tried |2:00HR-      |
+|          |          |        |  - to create Post in Retool, can't get it to work currently
+|6.20.25   |2:00PM    |MTG     |Attend Presentation Meeting                 |1:00HR       |
+
 
 
 
@@ -50,7 +53,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |          10:30           |
+|TP - Team Project              |          4:00            |
+|MTG - Class Meetings           |          4:00            |
+|**TOTAL**                      |          18:30           |
